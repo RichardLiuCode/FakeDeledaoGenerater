@@ -1,0 +1,6 @@
+使用條款 / Terms of Use
+中文：
+本工具僅供學習與模擬用途，禁止用於欺騙、誤導、騷擾或其他任何惡意行為。用戶不得利用本工具製作虛假封鎖頁面來欺騙他人，或造成他人困擾與損失。違反本條款者，開發者有權拒絕提供服務，並保留採取法律行動的權利。
+
+English:
+This tool is intended for educational and simulation purposes only. Any use of this tool to deceive, mislead, harass, or engage in malicious activities is strictly prohibited. Users must not create fake block pages to trick others or cause distress or harm. Violation of these terms may result in service denial and legal action by the developer.
