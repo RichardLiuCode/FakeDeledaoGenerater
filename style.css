@@ -4,6 +4,7 @@ body {
   margin: 0 auto;
   font-family: Arial;
 }
+
 #title,
 #url,
 #type {
@@ -16,6 +17,7 @@ body {
   background-color: white;
   font-size: 17px;
 }
+
 #enter {
   width: 80px;
   height: 30px;
@@ -25,11 +27,13 @@ body {
   border-color: black;
   font-size: 18px;
 }
+
 #display {
   background-color: white;
   width: 1000px;
   height: 600px;
 }
+
 #bar {
   position: fixed;
   top: 1;
@@ -41,23 +45,30 @@ body {
   color: white;
   font-size: 30px;
 }
+
 .bottonBar {
-  text-align:left;
-  margin:0 auto;
+  text-align: left;
+  margin: 0 auto;
   background-color: white;
   width: 1000px;
   height: 40px;
 }
-#open{
-  margin-left:10px;
-  margin-top:7px;
-  width:150px;
-  height:25px;
-  background-color:blue;
-  color:white;
-  border-radius:0px;
-  border-width:0px;
+
+#open {
+  margin-left: 10px;
+  margin-top: 7px;
+  width: 150px;
+  height: 25px;
+  background-color: blue;
+  color: white;
+  border-radius: 0px;
+  border-width: 0px;
 }
-#open:active{
-  background-color:deepskyblue;
+
+#open:active {
+  background-color: deepskyblue;
+}
+
+input:focus {
+  outline: none;
 }
